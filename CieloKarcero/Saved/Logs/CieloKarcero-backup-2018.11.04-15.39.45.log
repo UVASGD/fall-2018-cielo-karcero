@@ -1,0 +1,1002 @@
+﻿Log file open, 11/04/18 15:01:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CieloKarcero
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(5156098) SRandInit(5156098).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.220367
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.128s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5OGJ61U (172.25.143.89:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.04-20.01.28:739][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.04-20.01.28:739][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.04-20.01.28:801][  0]LogInit: Computer: DESKTOP-5OGJ61U
+[2018.11.04-20.01.28:801][  0]LogInit: User: wesda
+[2018.11.04-20.01.28:801][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.11.04-20.01.28:801][  0]LogInit: High frequency timer resolution =2.343751 MHz
+[2018.11.04-20.01.28:801][  0]LogMemory: Memory total: Physical=19.9GB (20GB approx)
+[2018.11.04-20.01.28:801][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.04-20.01.28:801][  0]LogMemory: Process Physical Memory: 275.11 MB used, 275.11 MB peak
+[2018.11.04-20.01.28:801][  0]LogMemory: Process Virtual Memory: 272.28 MB used, 272.28 MB peak
+[2018.11.04-20.01.28:801][  0]LogMemory: Physical Memory: 7567.97 MB used,  12783.63 MB free, 20351.60 MB total
+[2018.11.04-20.01.28:801][  0]LogMemory: Virtual Memory: 4784.32 MB used,  12783.63 MB free, 134217728.00 MB total
+[2018.11.04-20.01.28:952][  0]LogInit: Using OS detected language (en-US).
+[2018.11.04-20.01.28:952][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.04-20.01.29:066][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.04-20.01.29:775][  0]LogStreaming: Display: Took  0.822s to EndInitTextLocalization.
+[2018.11.04-20.01.29:777][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.04-20.01.29:917][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.04-20.01.29:918][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.04-20.01.33:991][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.04-20.01.34:124][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.11.04-20.01.34:124][  0]LogD3D11RHI:       128/0/10175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.11.04-20.01.34:126][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.04-20.01.34:126][  0]LogD3D11RHI:       0/0/10175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.04-20.01.34:126][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.04-20.01.34:136][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.04-20.01.34:138][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.04-20.01.34:138][  0]LogWindows: EnumDisplayDevices:
+[2018.11.04-20.01.34:138][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.11.04-20.01.34:138][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.11.04-20.01.34:138][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.11.04-20.01.34:138][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.04-20.01.34:138][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2018.11.04-20.01.34:138][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.04-20.01.34:138][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.04-20.01.34:140][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.11.04-20.01.34:240][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.04-20.01.34:286][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.11.04-20.01.34:297][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Intermediate/Shaders/WorkingDirectory/23872/).
+[2018.11.04-20.01.34:299][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/wesda/AppData/Local/Temp/UnrealShaderWorkingDir/BE8F6EBA4DDD477E1F5A3EAA28E2D029/'.
+[2018.11.04-20.01.34:757][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.04-20.01.34:778][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.04-20.01.34:800][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.04-20.01.34:826][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.04-20.01.34:862][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.04-20.01.34:882][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.04-20.01.34:901][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.04-20.01.34:923][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.04-20.01.34:938][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.04-20.01.34:966][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.04-20.01.34:987][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.04-20.01.35:011][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.04-20.01.35:030][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.04-20.01.35:050][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.04-20.01.35:068][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.04-20.01.35:108][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.04-20.01.35:108][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.04-20.01.35:135][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-20.01.35:139][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.04-20.01.35:209][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.04-20.01.35:241][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.04-20.01.35:264][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.04-20.01.35:281][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.04-20.01.35:299][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.04-20.01.35:326][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.04-20.01.35:326][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.04-20.01.35:684][  0]LogXGEController: Cleaning working directory: C:/Users/wesda/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.04-20.01.35:684][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.04-20.01.35:686][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.04-20.01.35:686][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.04-20.01.38:586][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.04-20.01.39:510][  0]LogDerivedDataCache: Loaded boot cache 0.92s 74MB C:/Users/wesda/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.04-20.01.39:510][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/wesda/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.04-20.01.39:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.04-20.01.39:512][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.04-20.01.39:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.04-20.01.39:512][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.04-20.01.39:575][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.04-20.01.39:590][  0]LogDerivedDataCache: Using Local data cache path C:/Users/wesda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.04-20.01.39:590][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.04-20.01.39:590][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.04-20.01.39:624][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.04-20.01.39:635][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.04-20.01.39:666][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.04-20.01.39:666][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.04-20.01.40:900][  0]LogAssetRegistry: FAssetRegistry took 0.0381 seconds to start up
+[2018.11.04-20.01.41:613][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.04-20.01.42:257][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.04-20.01.42:268][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.04-20.01.42:269][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.04-20.01.42:269][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.04-20.01.42:269][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.04-20.01.42:269][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.04-20.01.42:410][  0]LogNetVersion: CieloKarcero , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 883089839)
+[2018.11.04-20.01.44:466][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.109640 seconds
+[2018.11.04-20.01.44:474][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.04-20.01.44:474][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.11.04-20.01.44:474][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.04-20.01.54:388][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.04-20.01.54:431][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.04-20.01.55:133][  0]SourceControl: Source control is disabled
+[2018.11.04-20.01.55:133][  0]SourceControl: Source control is disabled
+[2018.11.04-20.01.55:189][  0]SourceControl: Source control is disabled
+[2018.11.04-20.01.55:231][  0]SourceControl: Source control is disabled
+[2018.11.04-20.01.56:133][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.04-20.01.56:373][  0]LogOcInput: OculusInput pre-init called
+[2018.11.04-20.01.56:634][  0]LogEngine: Initializing Engine...
+[2018.11.04-20.01.56:639][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.04-20.01.56:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.04-20.01.56:644][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.04-20.01.57:278][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.04-20.01.57:306][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-20.01.57:432][  0]LogInit: FAudioDevice initialized.
+[2018.11.04-20.01.57:545][  0]LogDerivedDataCache: Saved boot cache 0.11s 74MB C:/Users/wesda/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.04-20.01.57:575][  0]LogInit: Texture streaming: Enabled
+[2018.11.04-20.01.57:608][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.04-20.01.57:651][  0]LogInit: Transaction tracking system initialized
+[2018.11.04-20.01.57:750][  0]BlueprintLog: New page: Editor Load
+[2018.11.04-20.01.58:044][  0]LocalizationService: Localization service is disabled
+[2018.11.04-20.01.58:405][  0]LogConsoleResponse: Display: 
+[2018.11.04-20.01.59:187][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.04-20.01.59:187][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.04-20.01.59:187][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.04-20.01.59:187][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.04-20.01.59:187][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.04-20.01.59:736][  0]LogFileCache: Scanning file cache for directory 'C:/Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/' took 0.03s
+[2018.11.04-20.02.00:037][  0]SourceControl: Source control is disabled
+[2018.11.04-20.02.00:042][  0]LightingResults: New page: Lighting Build
+[2018.11.04-20.02.00:052][  0]MapCheck: New page: Map Check
+[2018.11.04-20.02.00:052][  0]LightingResults: New page: Lighting Build
+[2018.11.04-20.02.00:649][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021085466400, Size=1040, Default__RoomGen_BP_C Function /Game/Blueprints/RoomGen_BP.RoomGen_BP_C:ExecuteUbergraph_RoomGen_BP
+[2018.11.04-20.02.00:830][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021085466400, Size=1040
+[2018.11.04-20.02.00:830][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084aef200, Size=1040, Default__RoomGen_BP_C Function /Engine/Transient.REINST_RoomGen_BP_C_5:ExecuteUbergraph_RoomGen_BP
+[2018.11.04-20.02.00:981][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108587b200, Size=1040, Default__RoomGen_BP_C Function /Game/Blueprints/RoomGen_BP.RoomGen_BP_C:ExecuteUbergraph_RoomGen_BP
+[2018.11.04-20.02.01:009][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084e1eb00, Size=336, Default__Interactible_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.01:172][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210858a2b60, Size=88, Default__Derek_AnimBP_C Function /Game/Characters/Derek/Derek_AnimBP.Derek_AnimBP_C:ExecuteUbergraph_Derek_AnimBP
+[2018.11.04-20.02.01:279][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084ebb0b0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.04-20.02.01:375][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084e365a0, Size=32, Default__Holdable_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.01:375][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084d78100, Size=336, Default__Holdable_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.01:392][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021085869d00, Size=1552, Default__FP_Char_Test_BP_C Function /Game/FirstPersonBP/Blueprints/FP_Char_Test_BP.FP_Char_Test_BP_C:ExecuteUbergraph_FP_Char_Test_BP
+[2018.11.04-20.02.01:653][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021085836000, Size=472, Default__Inventory_BP_C Function /Game/BP/Inventory_BP.Inventory_BP_C:ExecuteUbergraph_Inventory_BP
+[2018.11.04-20.02.01:657][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021085950580, Size=128, Default__Item_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.01:657][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084e34380, Size=32, Default__Item_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.01:657][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021085177580, Size=336, Default__Item_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.01:738][  0]LogLinker: Warning: Can't find file '/Game/Materials/Papers/Textures/arch20_document_01'
+[2018.11.04-20.02.01:739][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials/Papers/Textures/arch20_document_01' while loading ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Master_NoteList_DT.uasset.
+[2018.11.04-20.02.01:739][  0]LoadErrors: Error: /Game/BP/Master_NoteList_DT : Can't find file for asset. /Game/Materials/Papers/Textures/arch20_document_01
+[2018.11.04-20.02.01:739][  0]LogLinker: Warning: Can't find file '/Game/Materials/Papers/Textures/arch20_document_02'
+[2018.11.04-20.02.01:739][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials/Papers/Textures/arch20_document_02' while loading ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Master_NoteList_DT.uasset.
+[2018.11.04-20.02.01:739][  0]LoadErrors: Error: /Game/BP/Master_NoteList_DT : Can't find file for asset. /Game/Materials/Papers/Textures/arch20_document_02
+[2018.11.04-20.02.01:740][  0]LogLinker: Warning: Can't find file '/Game/Materials/Papers/Textures/arch20_document_01'
+[2018.11.04-20.02.01:740][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials/Papers/Textures/arch20_document_01' while loading ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Master_NoteList_DT.uasset.
+[2018.11.04-20.02.01:740][  0]LoadErrors: Error: /Game/BP/Master_NoteList_DT : Can't find file for asset. /Game/Materials/Papers/Textures/arch20_document_01
+[2018.11.04-20.02.01:740][  0]LogLinker: Warning: Can't find file '/Game/Materials/Papers/Textures/arch20_document_02'
+[2018.11.04-20.02.01:740][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials/Papers/Textures/arch20_document_02' while loading ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Master_NoteList_DT.uasset.
+[2018.11.04-20.02.01:740][  0]LoadErrors: Error: /Game/BP/Master_NoteList_DT : Can't find file for asset. /Game/Materials/Papers/Textures/arch20_document_02
+[2018.11.04-20.02.01:745][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084dbca00, Size=192, Default__Note_Widget_C Function /Game/UI/Inventory/Widgets/Note_Widget.Note_Widget_C:ExecuteUbergraph_Note_Widget
+[2018.11.04-20.02.02:301][  0]LogLinker: Warning: Can't find file '/Game/Materials/Papers/Textures/arch20_document_01'
+[2018.11.04-20.02.02:301][  0]LoadErrors: Failed to load /Game/Materials/Papers/Textures/arch20_document_01.arch20_document_01 Referenced by Master_NoteList_DT
+[2018.11.04-20.02.02:301][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials/Papers/Textures/arch20_document_01' while loading ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Item_BP.uasset.
+[2018.11.04-20.02.02:301][  0]LoadErrors: Failed to load /Game/Materials/Papers/Textures/arch20_document_01.arch20_document_01 Referenced by Master_NoteList_DT
+[2018.11.04-20.02.02:301][  0]LoadErrors: Error: /Game/BP/Item_BP : Can't find file for asset. /Game/Materials/Papers/Textures/arch20_document_01
+[2018.11.04-20.02.02:301][  0]LogLinker: Warning: Can't find file '/Game/Materials/Papers/Textures/arch20_document_02'
+[2018.11.04-20.02.02:301][  0]LoadErrors: Failed to load /Game/Materials/Papers/Textures/arch20_document_02.arch20_document_02 Referenced by Master_NoteList_DT
+[2018.11.04-20.02.02:302][  0]LogLinker: Warning: Can't find file for asset '/Game/Materials/Papers/Textures/arch20_document_02' while loading ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Item_BP.uasset.
+[2018.11.04-20.02.02:302][  0]LoadErrors: Failed to load /Game/Materials/Papers/Textures/arch20_document_02.arch20_document_02 Referenced by Master_NoteList_DT
+[2018.11.04-20.02.02:302][  0]LoadErrors: Error: /Game/BP/Item_BP : Can't find file for asset. /Game/Materials/Papers/Textures/arch20_document_02
+[2018.11.04-20.02.02:314][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088cff6c0, Size=16, Default__Weapon_BP_C Function /Game/BP/Weapon_BP.Weapon_BP_C:ExecuteUbergraph_Weapon_BP
+[2018.11.04-20.02.02:314][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088cf3f00, Size=128, Default__Weapon_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.02:314][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084e363a0, Size=32, Default__Weapon_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.02:314][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088cf9f00, Size=336, Default__Weapon_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.02:364][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088cdf9c0, Size=296, Default__Inventory_Slot_Widget_C Function /Game/UI/Inventory/Widgets/Inventory_Slot_Widget.Inventory_Slot_Widget_C:ExecuteUbergraph_Inventory_Slot_Widget
+[2018.11.04-20.02.02:386][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084e440a0, Size=4, Default__Detail_Widget_C Function /Game/UI/Inventory/Widgets/Detail_Widget.Detail_Widget_C:ExecuteUbergraph_Detail_Widget
+[2018.11.04-20.02.02:405][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088cd13a0, Size=136, Default__Dragged_Item_Widget_C Function /Game/UI/Inventory/Widgets/Dragged_Item_Widget.Dragged_Item_Widget_C:ExecuteUbergraph_Dragged_Item_Widget
+[2018.11.04-20.02.02:453][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088cb2940, Size=400, Default__Hotkey_Slot_Widget_C Function /Game/UI/Inventory/Widgets/Hotkey_Slot_Widget.Hotkey_Slot_Widget_C:ExecuteUbergraph_Hotkey_Slot_Widget
+[2018.11.04-20.02.02:455][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088c75260, Size=136, Default__Hotkey_Widget_C Function /Game/UI/Inventory/Widgets/Hotkey_Widget.Hotkey_Widget_C:ExecuteUbergraph_Hotkey_Widget
+[2018.11.04-20.02.02:507][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210ee645000, Size=192, Default__Inventory_Widget_C Function /Game/UI/Inventory/Widgets/Inventory_Widget.Inventory_Widget_C:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.02.02:508][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088cfcee0, Size=12, Default__Action_Menu_Widget_C Function /Game/UI/Inventory/Widgets/Action_Menu_Widget.Action_Menu_Widget_C:ExecuteUbergraph_Action_Menu_Widget
+[2018.11.04-20.02.02:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210e95c18d8, Size=4, Default__Main_Inventory_Widget_C Function /Game/UI/Inventory/Widgets/Main_Inventory_Widget.Main_Inventory_Widget_C:ExecuteUbergraph_Main_Inventory_Widget
+[2018.11.04-20.02.02:565][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210898f3ba0, Size=208, Default__Crafting_Menu_Widget_C Function /Game/UI/Inventory/Widgets/Crafting_Menu_Widget.Crafting_Menu_Widget_C:ExecuteUbergraph_Crafting_Menu_Widget
+[2018.11.04-20.02.02:584][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210e95c0608, Size=4, Default__Craftable_Item_Widget_C Function /Game/UI/Inventory/Widgets/Craftable_Item_Widget.Craftable_Item_Widget_C:ExecuteUbergraph_Craftable_Item_Widget
+[2018.11.04-20.02.02:606][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210898a7e40, Size=432, Default__Discard_Widget_C Function /Game/UI/Inventory/Widgets/Discard_Widget.Discard_Widget_C:ExecuteUbergraph_Discard_Widget
+[2018.11.04-20.02.02:661][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210898ca340, Size=272, Default__Obtained_Item_Widget_C Function /Game/UI/Inventory/Widgets/Obtained_Item_Widget.Obtained_Item_Widget_C:ExecuteUbergraph_Obtained_Item_Widget
+[2018.11.04-20.02.02:737][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089481580, Size=32, Default__Holdable_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.02:737][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088ce3a00, Size=336, Default__Holdable_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.02:740][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210897b5200, Size=128, Default__Item_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.02:740][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210894815e0, Size=32, Default__Item_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.02:740][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108944e200, Size=336, Default__Item_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.02:744][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210894bd180, Size=16, Default__Weapon_BP_C Function /Game/BP/Weapon_BP.Weapon_BP_C:ExecuteUbergraph_Weapon_BP
+[2018.11.04-20.02.02:744][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210897b5000, Size=128, Default__Weapon_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.02:744][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089447f60, Size=32, Default__Weapon_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.02:744][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089450a00, Size=336, Default__Weapon_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.02:898][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108931f200, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.11.04-20.02.03:110][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210858a2b60, Size=88
+[2018.11.04-20.02.03:110][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210858a2b60, Size=88, Default__Derek_AnimBP_C Function /Engine/Transient.REINST_Derek_AnimBP_C_0:ExecuteUbergraph_Derek_AnimBP
+[2018.11.04-20.02.03:111][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021084ebb0b0, Size=72
+[2018.11.04-20.02.03:111][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021084e9f6a0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_1:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.04-20.02.03:111][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108931f200, Size=256
+[2018.11.04-20.02.03:111][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089a06800, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_9:ExecuteUbergraph_FirstPersonProjectile
+[2018.11.04-20.02.03:112][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021084e1eb00, Size=336
+[2018.11.04-20.02.03:112][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088fb3280, Size=336, Default__Interactible_BP_C Function /Engine/Transient.REINST_Interactible_BP_C_10:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:115][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021085836000, Size=472
+[2018.11.04-20.02.03:115][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089987600, Size=472, Default__Inventory_BP_C Function /Engine/Transient.REINST_Inventory_BP_C_11:ExecuteUbergraph_Inventory_BP
+[2018.11.04-20.02.03:115][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089481580, Size=32
+[2018.11.04-20.02.03:116][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088ce3a00, Size=336
+[2018.11.04-20.02.03:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088deb9e0, Size=32, Default__Holdable_BP_C Function /Engine/Transient.REINST_Holdable_BP_C_15:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088dae680, Size=336, Default__Holdable_BP_C Function /Engine/Transient.REINST_Interactible_BP_C_10:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:116][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088cfcee0, Size=12
+[2018.11.04-20.02.03:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089cf9480, Size=12, Default__Action_Menu_Widget_C Function /Engine/Transient.REINST_Action_Menu_Widget_C_0:ExecuteUbergraph_Action_Menu_Widget
+[2018.11.04-20.02.03:116][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210e95c0608, Size=4
+[2018.11.04-20.02.03:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089c4ab18, Size=4, Default__Craftable_Item_Widget_C Function /Engine/Transient.REINST_Craftable_Item_Widget_C_1:ExecuteUbergraph_Craftable_Item_Widget
+[2018.11.04-20.02.03:117][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210898f3ba0, Size=208
+[2018.11.04-20.02.03:117][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088d8bc80, Size=208, Default__Crafting_Menu_Widget_C Function /Engine/Transient.REINST_Crafting_Menu_Widget_C_2:ExecuteUbergraph_Crafting_Menu_Widget
+[2018.11.04-20.02.03:117][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021084e440a0, Size=4
+[2018.11.04-20.02.03:117][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089c4ab08, Size=4, Default__Detail_Widget_C Function /Engine/Transient.REINST_Detail_Widget_C_3:ExecuteUbergraph_Detail_Widget
+[2018.11.04-20.02.03:118][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210898a7e40, Size=432
+[2018.11.04-20.02.03:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088d93ac0, Size=432, Default__Discard_Widget_C Function /Engine/Transient.REINST_Discard_Widget_C_4:ExecuteUbergraph_Discard_Widget
+[2018.11.04-20.02.03:118][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088cd13a0, Size=136
+[2018.11.04-20.02.03:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088d85800, Size=136, Default__Dragged_Item_Widget_C Function /Engine/Transient.REINST_Dragged_Item_Widget_C_5:ExecuteUbergraph_Dragged_Item_Widget
+[2018.11.04-20.02.03:120][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021085869d00, Size=1552
+[2018.11.04-20.02.03:121][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088d7e400, Size=1552, Default__FP_Char_Test_BP_C Function /Engine/Transient.REINST_FP_Char_Test_BP_C_16:ExecuteUbergraph_FP_Char_Test_BP
+[2018.11.04-20.02.03:121][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088cb2940, Size=400
+[2018.11.04-20.02.03:121][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088d91b40, Size=400, Default__Hotkey_Slot_Widget_C Function /Engine/Transient.REINST_Hotkey_Slot_Widget_C_6:ExecuteUbergraph_Hotkey_Slot_Widget
+[2018.11.04-20.02.03:121][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088c75260, Size=136
+[2018.11.04-20.02.03:121][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088d5fd80, Size=136, Default__Hotkey_Widget_C Function /Engine/Transient.REINST_Hotkey_Widget_C_7:ExecuteUbergraph_Hotkey_Widget
+[2018.11.04-20.02.03:122][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088cdf9c0, Size=296
+[2018.11.04-20.02.03:122][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108995ad40, Size=296, Default__Inventory_Slot_Widget_C Function /Engine/Transient.REINST_Inventory_Slot_Widget_C_8:ExecuteUbergraph_Inventory_Slot_Widget
+[2018.11.04-20.02.03:123][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210ee645000, Size=192
+[2018.11.04-20.02.03:123][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089d25d80, Size=192, Default__Inventory_Widget_C Function /Engine/Transient.REINST_Inventory_Widget_C_9:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.02.03:123][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210897b5200, Size=128
+[2018.11.04-20.02.03:123][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210894815e0, Size=32
+[2018.11.04-20.02.03:123][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108944e200, Size=336
+[2018.11.04-20.02.03:123][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089a20c80, Size=128, Default__Item_BP_C Function /Engine/Transient.REINST_Item_BP_C_17:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.03:123][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088deb580, Size=32, Default__Item_BP_C Function /Engine/Transient.REINST_Holdable_BP_C_15:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:123][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088d4a800, Size=336, Default__Item_BP_C Function /Engine/Transient.REINST_Interactible_BP_C_10:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:124][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210e95c18d8, Size=4
+[2018.11.04-20.02.03:124][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089c4aac0, Size=4, Default__Main_Inventory_Widget_C Function /Engine/Transient.REINST_Main_Inventory_Widget_C_10:ExecuteUbergraph_Main_Inventory_Widget
+[2018.11.04-20.02.03:124][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021084dbca00, Size=192
+[2018.11.04-20.02.03:124][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089d25540, Size=192, Default__Note_Widget_C Function /Engine/Transient.REINST_Note_Widget_C_11:ExecuteUbergraph_Note_Widget
+[2018.11.04-20.02.03:126][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210898ca340, Size=272
+[2018.11.04-20.02.03:126][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108995a480, Size=272, Default__Obtained_Item_Widget_C Function /Engine/Transient.REINST_Obtained_Item_Widget_C_12:ExecuteUbergraph_Obtained_Item_Widget
+[2018.11.04-20.02.03:127][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210894bd180, Size=16
+[2018.11.04-20.02.03:127][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210897b5000, Size=128
+[2018.11.04-20.02.03:127][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089447f60, Size=32
+[2018.11.04-20.02.03:127][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089450a00, Size=336
+[2018.11.04-20.02.03:127][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089cf93c0, Size=16, Default__Weapon_BP_C Function /Engine/Transient.REINST_Weapon_BP_C_18:ExecuteUbergraph_Weapon_BP
+[2018.11.04-20.02.03:127][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021089a20300, Size=128, Default__Weapon_BP_C Function /Engine/Transient.REINST_Item_BP_C_17:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.03:127][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088deb240, Size=32, Default__Weapon_BP_C Function /Engine/Transient.REINST_Holdable_BP_C_15:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:127][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021088d3e380, Size=336, Default__Weapon_BP_C Function /Engine/Transient.REINST_Interactible_BP_C_10:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:400][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021090323280, Size=88, Default__Derek_AnimBP_C Function /Game/Characters/Derek/Derek_AnimBP.Derek_AnimBP_C:ExecuteUbergraph_Derek_AnimBP
+[2018.11.04-20.02.03:402][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210903354e0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.04-20.02.03:403][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210902f4f00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.11.04-20.02.03:405][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210902d7580, Size=336, Default__Interactible_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:430][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021090394600, Size=472, Default__Inventory_BP_C Function /Game/BP/Inventory_BP.Inventory_BP_C:ExecuteUbergraph_Inventory_BP
+[2018.11.04-20.02.03:438][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210900fad40, Size=32, Default__Holdable_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:438][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210901e8a00, Size=336, Default__Holdable_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:440][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210900eb690, Size=12, Default__Action_Menu_Widget_C Function /Game/UI/Inventory/Widgets/Action_Menu_Widget.Action_Menu_Widget_C:ExecuteUbergraph_Action_Menu_Widget
+[2018.11.04-20.02.03:441][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021090232568, Size=4, Default__Craftable_Item_Widget_C Function /Game/UI/Inventory/Widgets/Craftable_Item_Widget.Craftable_Item_Widget_C:ExecuteUbergraph_Craftable_Item_Widget
+[2018.11.04-20.02.03:446][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021090316a20, Size=208, Default__Crafting_Menu_Widget_C Function /Game/UI/Inventory/Widgets/Crafting_Menu_Widget.Crafting_Menu_Widget_C:ExecuteUbergraph_Crafting_Menu_Widget
+[2018.11.04-20.02.03:450][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021090231cf8, Size=4, Default__Detail_Widget_C Function /Game/UI/Inventory/Widgets/Detail_Widget.Detail_Widget_C:ExecuteUbergraph_Detail_Widget
+[2018.11.04-20.02.03:454][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a510800, Size=432, Default__Discard_Widget_C Function /Game/UI/Inventory/Widgets/Discard_Widget.Discard_Widget_C:ExecuteUbergraph_Discard_Widget
+[2018.11.04-20.02.03:456][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a41ade0, Size=136, Default__Dragged_Item_Widget_C Function /Game/UI/Inventory/Widgets/Dragged_Item_Widget.Dragged_Item_Widget_C:ExecuteUbergraph_Dragged_Item_Widget
+[2018.11.04-20.02.03:469][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a34cf00, Size=1552, Default__FP_Char_Test_BP_C Function /Game/FirstPersonBP/Blueprints/FP_Char_Test_BP.FP_Char_Test_BP_C:ExecuteUbergraph_FP_Char_Test_BP
+[2018.11.04-20.02.03:476][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a322e80, Size=400, Default__Hotkey_Slot_Widget_C Function /Game/UI/Inventory/Widgets/Hotkey_Slot_Widget.Hotkey_Slot_Widget_C:ExecuteUbergraph_Hotkey_Slot_Widget
+[2018.11.04-20.02.03:477][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a31ca40, Size=136, Default__Hotkey_Widget_C Function /Game/UI/Inventory/Widgets/Hotkey_Widget.Hotkey_Widget_C:ExecuteUbergraph_Hotkey_Widget
+[2018.11.04-20.02.03:481][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a527880, Size=296, Default__Inventory_Slot_Widget_C Function /Game/UI/Inventory/Widgets/Inventory_Slot_Widget.Inventory_Slot_Widget_C:ExecuteUbergraph_Inventory_Slot_Widget
+[2018.11.04-20.02.03:489][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a2aae00, Size=192, Default__Inventory_Widget_C Function /Game/UI/Inventory/Widgets/Inventory_Widget.Inventory_Widget_C:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.02.03:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a30c380, Size=128, Default__Item_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.03:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a2e1680, Size=32, Default__Item_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a2ca980, Size=336, Default__Item_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:497][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210902306c8, Size=4, Default__Main_Inventory_Widget_C Function /Game/UI/Inventory/Widgets/Main_Inventory_Widget.Main_Inventory_Widget_C:ExecuteUbergraph_Main_Inventory_Widget
+[2018.11.04-20.02.03:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a1f6500, Size=192, Default__Note_Widget_C Function /Game/UI/Inventory/Widgets/Note_Widget.Note_Widget_C:ExecuteUbergraph_Note_Widget
+[2018.11.04-20.02.03:502][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a526fc0, Size=272, Default__Obtained_Item_Widget_C Function /Game/UI/Inventory/Widgets/Obtained_Item_Widget.Obtained_Item_Widget_C:ExecuteUbergraph_Obtained_Item_Widget
+[2018.11.04-20.02.03:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210900e9fe0, Size=16, Default__Weapon_BP_C Function /Game/BP/Weapon_BP.Weapon_BP_C:ExecuteUbergraph_Weapon_BP
+[2018.11.04-20.02.03:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a221f00, Size=128, Default__Weapon_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.03:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a2026c0, Size=32, Default__Weapon_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a1b2e00, Size=336, Default__Weapon_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a3968b8, Size=40, Default__Speed_Test_BP_C Function /Game/BP/Speed_Test_BP.Speed_Test_BP_C:ExecuteUbergraph_Speed_Test_BP
+[2018.11.04-20.02.03:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a183f80, Size=128, Default__Speed_Test_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.03:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a2027a0, Size=32, Default__Speed_Test_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a1b2380, Size=336, Default__Speed_Test_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a3968b8, Size=40
+[2018.11.04-20.02.03:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a183f80, Size=128
+[2018.11.04-20.02.03:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a2027a0, Size=32
+[2018.11.04-20.02.03:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a1b2380, Size=336
+[2018.11.04-20.02.03:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a3968b8, Size=40, Default__Speed_Test_BP_C Function /Engine/Transient.REINST_Speed_Test_BP_C_47:ExecuteUbergraph_Speed_Test_BP
+[2018.11.04-20.02.03:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a183f80, Size=128, Default__Speed_Test_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.03:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a2027a0, Size=32, Default__Speed_Test_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108984b580, Size=336, Default__Speed_Test_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:691][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a396d68, Size=40, Default__Speed_Test_BP_C Function /Game/BP/Speed_Test_BP.Speed_Test_BP_C:ExecuteUbergraph_Speed_Test_BP
+[2018.11.04-20.02.03:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a183680, Size=128, Default__Speed_Test_BP_C Function /Game/BP/Item_BP.Item_BP_C:ExecuteUbergraph_Item_BP
+[2018.11.04-20.02.03:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a2013e0, Size=32, Default__Speed_Test_BP_C Function /Game/BP/Holdable_BP.Holdable_BP_C:ExecuteUbergraph_Holdable_BP
+[2018.11.04-20.02.03:692][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021085d48a00, Size=336, Default__Speed_Test_BP_C Function /Game/BP/Interactible_BP.Interactible_BP_C:ExecuteUbergraph_Interactible_BP
+[2018.11.04-20.02.03:733][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a1ee9e8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.11.04-20.02.03:736][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a1ee9e8, Size=52
+[2018.11.04-20.02.03:736][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a1ee9e8, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_49:ExecuteUbergraph_FirstPersonHUD
+[2018.11.04-20.02.03:738][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002108a1ef270, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.11.04-20.02.03:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210900ea5e0, Size=16, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.04-20.02.03:827][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210900ea5e0, Size=16
+[2018.11.04-20.02.03:827][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210900ea5e0, Size=16, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_53:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.04-20.02.03:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210900eaf60, Size=16, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.04-20.02.04:110][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.360850ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.11.04-20.02.04:166][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [32.475719ms] /Game/Characters/Derek/Derek.Derek
+[2018.11.04-20.02.05:340][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [18.839031ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.11.04-20.02.05:966][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-20.02.06:012][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.04-20.02.06:054][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021084aef200, Size=1040
+[2018.11.04-20.02.06:055][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088fb3280, Size=336
+[2018.11.04-20.02.06:055][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210858a2b60, Size=88
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021084e9f6a0, Size=72
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088deb9e0, Size=32
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088dae680, Size=336
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088d7e400, Size=1552
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089987600, Size=472
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089a20c80, Size=128
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088deb580, Size=32
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088d4a800, Size=336
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089d25540, Size=192
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089cf93c0, Size=16
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089a20300, Size=128
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088deb240, Size=32
+[2018.11.04-20.02.06:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088d3e380, Size=336
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108995ad40, Size=296
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089c4ab08, Size=4
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088d85800, Size=136
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088d91b40, Size=400
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088d5fd80, Size=136
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089d25d80, Size=192
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089cf9480, Size=12
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089c4aac0, Size=4
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088d8bc80, Size=208
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089c4ab18, Size=4
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021088d93ac0, Size=432
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108995a480, Size=272
+[2018.11.04-20.02.06:057][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021089a06800, Size=256
+[2018.11.04-20.02.06:059][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a3968b8, Size=40
+[2018.11.04-20.02.06:059][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a183f80, Size=128
+[2018.11.04-20.02.06:059][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a2027a0, Size=32
+[2018.11.04-20.02.06:059][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108984b580, Size=336
+[2018.11.04-20.02.06:059][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a1ee9e8, Size=52
+[2018.11.04-20.02.06:059][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210900ea5e0, Size=16
+[2018.11.04-20.02.06:069][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.04-20.02.06:167][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98.491ms to complete.
+[2018.11.04-20.02.06:167][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 6.129
+[2018.11.04-20.02.06:499][  0]LogCollectionManager: Loaded 0 collections in 0.004801 seconds
+[2018.11.04-20.02.06:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Collections/' took 0.01s
+[2018.11.04-20.02.06:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/Developers/wesda/Collections/' took 0.01s
+[2018.11.04-20.02.06:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/Collections/' took 0.01s
+[2018.11.04-20.02.06:593][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.04-20.02.06:619][  0]LogContentBrowser: Native class hierarchy populated in 0.0224 seconds. Added 2452 classes and 558 folders.
+[2018.11.04-20.02.06:656][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.11.04-20.02.07:352][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.04-20.02.07:380][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.04-20.02.07:776][  0]LogSlate: Took 0.008660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.04-20.02.07:789][  0]LogSlate: Took 0.008942 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.04-20.02.07:806][  0]LogSlate: Took 0.008196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.04-20.02.08:054][  0]LogRenderer: Reallocating scene render targets to support 1116x496 Format 9 NumSamples 1 (Frame:1).
+[2018.11.04-20.02.08:346][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.04-20.02.08:387][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.04-20.02.08:388][  0]LogLoad: (Engine Initialization) Total time: 48.66 seconds
+[2018.11.04-20.02.08:388][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.04-20.02.08:439][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.11.04-20.02.08:444][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.04-20.02.08:516][  0]LogSlate: Took 0.009794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.04-20.02.10:018][  2]LogAssetRegistry: Asset discovery search completed in 29.1414 seconds
+[2018.11.04-20.02.10:023][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.04-20.02.10:023][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000117 seconds (updated 0 objects)
+[2018.11.04-20.02.10:360][  4]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.04-20.02.13:248][100]LogSlate: Window 'Message Log' being destroyed
+[2018.11.04-20.02.13:264][100]LogSlate: Window 'Message Log' being destroyed
+[2018.11.04-20.02.37:340][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.02.40:159][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.02.40:366][758]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.04-20.02.40:835][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.04-20.02.40:847][758]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.11.04-20.02.41:341][758]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210e97c7ac0, Size=24, Default__BP_Portal_C Function /Game/Portals/BP_Portal.BP_Portal_C:ExecuteUbergraph_BP_Portal
+[2018.11.04-20.02.41:346][758]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210e97c7a30, Size=24, Default__BP_Portal_C Function /Game/Portals/BP_Portal.BP_Portal_C:ExecuteUbergraph_BP_Portal
+[2018.11.04-20.02.41:385][758]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210e97c7a30, Size=24
+[2018.11.04-20.02.41:385][758]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210e97c5db0, Size=24, Default__BP_Portal_C Function /Engine/Transient.REINST_BP_Portal_C_65:ExecuteUbergraph_BP_Portal
+[2018.11.04-20.02.41:413][758]LogUObjectGlobals: Created PersistentFrame Addr=0x00000210e97c40b8, Size=24, Default__BP_Portal_C Function /Game/Portals/BP_Portal.BP_Portal_C:ExecuteUbergraph_BP_Portal
+[2018.11.04-20.02.41:612][758]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.11.04-20.02.42:067][758]LogUObjectGlobals: Created PersistentFrame Addr=0x000002111c29cf00, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.04-20.02.42:068][758]LogUObjectGlobals: Created PersistentFrame Addr=0x000002111c29cef8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.04-20.02.42:656][758]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.04-20.02.43:974][758]LogSlate: Took 0.007898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.04-20.02.48:510][824]LogSlate: Took 0.010804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.04-20.03.12:788][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.03.12:928][373]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.04-20.03.12:983][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.03.12:983][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-20.03.12:986][373]PIE: New page: PIE session: FirstPersonExampleMap (Nov 4, 2018, 10:03:12 AM)
+[2018.11.04-20.03.12:986][373]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.04-20.03.13:029][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043081s)
+[2018.11.04-20.03.13:031][373]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-20.03.13:031][373]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2018.11.04-20.03.13:032][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.045482s)
+[2018.11.04-20.03.13:104][373]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000210e97c5db0, Size=24
+[2018.11.04-20.03.13:116][373]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-20.03.13:143][373]LogInit: FAudioDevice initialized.
+[2018.11.04-20.03.13:195][373]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.04-20.03.13:199][373]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.11.04-15.03.13
+[2018.11.04-20.03.13:201][373]LogWorld: Bringing up level for play took: 0.002399
+[2018.11.04-20.03.13:216][373]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.11.04-20.03.13:228][373]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2018.11.04-20.03.13:228][373]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2018.11.04-20.03.13:261][373]LogStreaming: Warning: Failed to read file '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/SaveGames/InventorySave.sav' error.
+[2018.11.04-20.03.13:321][373]LogStreaming: Warning: Failed to read file '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/SaveGames/InventorySave.sav' error.
+[2018.11.04-20.03.13:321][373]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.091
+[2018.11.04-20.03.13:321][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.03.21:496][571]LogBlueprintUserMessages: [RoomGen_BP_66] 20150
+[2018.11.04-20.03.21:496][571]LogBlueprintUserMessages: [RoomGen_BP_66] 8.248624
+[2018.11.04-20.03.22:945][602]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.03.25:524][639]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.03.27:207][657]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.03.31:824][716]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.03.31:955][718]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.03.32:550][726]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.03.34:597][770]LogBlueprintUserMessages: [RoomGen_BP_66] 1373549
+[2018.11.04-20.03.34:597][770]LogBlueprintUserMessages: [RoomGen_BP_66] 21.351131
+[2018.11.04-20.03.54:082][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.03.54:147][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.04.06:137][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.04-20.04.11:514][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.04.11:542][977]LogSlate: Took 0.013997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.04-20.04.59:159][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.04-20.04.59:225][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.04.59:227][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-20.04.59:228][579]PIE: New page: PIE session: FirstPersonExampleMap (Nov 4, 2018, 10:04:59 AM)
+[2018.11.04-20.04.59:228][579]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.04-20.04.59:259][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029215s)
+[2018.11.04-20.04.59:260][579]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-20.04.59:261][579]LogPlayLevel: PIE: World Init took: (0.001728s)
+[2018.11.04-20.04.59:261][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032433s)
+[2018.11.04-20.04.59:332][579]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-20.04.59:361][579]LogInit: FAudioDevice initialized.
+[2018.11.04-20.04.59:407][579]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.04-20.04.59:410][579]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.11.04-15.04.59
+[2018.11.04-20.04.59:410][579]LogWorld: Bringing up level for play took: 0.001888
+[2018.11.04-20.04.59:437][579]LogStreaming: Warning: Failed to read file '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/SaveGames/InventorySave.sav' error.
+[2018.11.04-20.04.59:514][579]LogStreaming: Warning: Failed to read file '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/SaveGames/InventorySave.sav' error.
+[2018.11.04-20.04.59:515][579]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.285
+[2018.11.04-20.04.59:516][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.05.07:534][779]LogBlueprintUserMessages: [RoomGen_BP_66] 20363
+[2018.11.04-20.05.07:535][779]LogBlueprintUserMessages: [RoomGen_BP_66] 8.398115
+[2018.11.04-20.05.08:433][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.05.08:483][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.05.09:967][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.05.10:127][871]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.04-20.05.10:186][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.05.10:189][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-20.05.10:190][871]PIE: New page: PIE session: FirstPersonExampleMap (Nov 4, 2018, 10:05:10 AM)
+[2018.11.04-20.05.10:190][871]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.04-20.05.10:217][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025881s)
+[2018.11.04-20.05.10:219][871]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-20.05.10:220][871]LogPlayLevel: PIE: World Init took: (0.002279s)
+[2018.11.04-20.05.10:221][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029729s)
+[2018.11.04-20.05.10:277][871]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-20.05.10:309][871]LogInit: FAudioDevice initialized.
+[2018.11.04-20.05.10:348][871]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.04-20.05.10:350][871]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.11.04-15.05.10
+[2018.11.04-20.05.10:351][871]LogWorld: Bringing up level for play took: 0.001885
+[2018.11.04-20.05.10:445][871]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.215
+[2018.11.04-20.05.10:445][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.05.16:217][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.05.18:362][ 70]LogBlueprintUserMessages: [RoomGen_BP_66] 20133
+[2018.11.04-20.05.18:363][ 70]LogBlueprintUserMessages: [RoomGen_BP_66] 8.255977
+[2018.11.04-20.05.18:556][ 76]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.05.19:721][ 99]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.05.20:273][108]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.05.27:566][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.05.27:614][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.05.30:703][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.04-20.07.52:923][511]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.04-20.07.52:955][511]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.04-20.07.54:748][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.07.54:864][586]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.04-20.07.54:948][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.07.54:950][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-20.07.54:951][586]PIE: New page: PIE session: FirstPersonExampleMap (Nov 4, 2018, 10:07:54 AM)
+[2018.11.04-20.07.54:951][586]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.04-20.07.54:980][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027754s)
+[2018.11.04-20.07.54:982][586]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-20.07.54:983][586]LogPlayLevel: PIE: World Init took: (0.002912s)
+[2018.11.04-20.07.54:984][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032555s)
+[2018.11.04-20.07.55:048][586]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-20.07.55:081][586]LogInit: FAudioDevice initialized.
+[2018.11.04-20.07.55:123][586]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.04-20.07.55:127][586]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.11.04-15.07.55
+[2018.11.04-20.07.55:127][586]LogWorld: Bringing up level for play took: 0.002263
+[2018.11.04-20.07.55:225][586]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.995
+[2018.11.04-20.07.55:226][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.08.03:145][784]LogBlueprintUserMessages: [RoomGen_BP_66] 20233
+[2018.11.04-20.08.03:146][784]LogBlueprintUserMessages: [RoomGen_BP_66] 8.292215
+[2018.11.04-20.08.10:133][884]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.08.11:424][900]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.08.13:855][932]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.08.14:117][936]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.08.14:496][942]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.08.16:024][971]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.08.16:440][983]LogBlueprintUserMessages: [RoomGen_BP_66] 1373632
+[2018.11.04-20.08.16:441][983]LogBlueprintUserMessages: [RoomGen_BP_66] 21.585991
+[2018.11.04-20.08.39:740][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.08.44:284][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.08.48:943][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.08.51:323][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.08.51:388][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.08.54:420][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.04-20.10.49:127][382]BlueprintLog: New page: Compile Inventory_Widget
+[2018.11.04-20.10.49:330][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002108a2aae00, Size=192
+[2018.11.04-20.10.49:330][382]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211872fabc0, Size=192, Default__Inventory_Widget_C Function /Engine/Transient.REINST_Inventory_Widget_C_20:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.10.49:351][382]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021173d07dc0, Size=192, Default__Inventory_Widget_C Function /Game/UI/Inventory/Widgets/Inventory_Widget.Inventory_Widget_C:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.10.57:801][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.10.57:907][699]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.04-20.10.57:979][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.10.57:981][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-20.10.57:982][699]PIE: New page: PIE session: FirstPersonExampleMap (Nov 4, 2018, 10:10:57 AM)
+[2018.11.04-20.10.57:982][699]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.04-20.10.58:011][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028122s)
+[2018.11.04-20.10.58:012][699]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-20.10.58:013][699]LogPlayLevel: PIE: World Init took: (0.001903s)
+[2018.11.04-20.10.58:014][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031761s)
+[2018.11.04-20.10.58:067][699]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000211872fabc0, Size=192
+[2018.11.04-20.10.58:087][699]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-20.10.58:116][699]LogInit: FAudioDevice initialized.
+[2018.11.04-20.10.58:156][699]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.04-20.10.58:158][699]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.11.04-15.10.58
+[2018.11.04-20.10.58:159][699]LogWorld: Bringing up level for play took: 0.002380
+[2018.11.04-20.10.58:183][699]LogBlueprintUserMessages: [Inventory_Widget] Hello
+[2018.11.04-20.10.58:201][699]LogBlueprintUserMessages: [Inventory_Widget] Hello
+[2018.11.04-20.10.58:258][699]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.028
+[2018.11.04-20.10.58:259][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.11.04:647][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.11.06:170][898]LogBlueprintUserMessages: [RoomGen_BP_66] 20243
+[2018.11.04-20.11.06:170][898]LogBlueprintUserMessages: [RoomGen_BP_66] 8.28916
+[2018.11.04-20.11.07:548][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.11.07:595][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.11.13:362][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.04-20.12.06:986][569]BlueprintLog: New page: Compile Inventory_Widget
+[2018.11.04-20.12.07:146][569]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021173d07dc0, Size=192
+[2018.11.04-20.12.07:146][569]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021144b83940, Size=192, Default__Inventory_Widget_C Function /Engine/Transient.REINST_Inventory_Widget_C_27:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.12.07:173][569]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021173d065c0, Size=192, Default__Inventory_Widget_C Function /Game/UI/Inventory/Widgets/Inventory_Widget.Inventory_Widget_C:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.12.08:320][583]LogSavePackage: Save=138.44ms
+[2018.11.04-20.12.08:320][583]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Inventory_Widget81A0BCA3456F674046845AA592044BA0.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/UI/Inventory/Widgets/Inventory_Widget.uasset'
+[2018.11.04-20.12.08:327][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/UI/Inventory/Widgets/Inventory_Widget.uasset
+[2018.11.04-20.12.09:733][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.12.10:822][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.12.10:921][671]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.04-20.12.10:993][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.12.10:995][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-20.12.10:996][671]PIE: New page: PIE session: FirstPersonExampleMap (Nov 4, 2018, 10:12:10 AM)
+[2018.11.04-20.12.10:996][671]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.04-20.12.11:022][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025062s)
+[2018.11.04-20.12.11:024][671]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-20.12.11:025][671]LogPlayLevel: PIE: World Init took: (0.002083s)
+[2018.11.04-20.12.11:025][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028607s)
+[2018.11.04-20.12.11:076][671]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021144b83940, Size=192
+[2018.11.04-20.12.11:094][671]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-20.12.11:124][671]LogInit: FAudioDevice initialized.
+[2018.11.04-20.12.11:166][671]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.04-20.12.11:168][671]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.11.04-15.12.11
+[2018.11.04-20.12.11:169][671]LogWorld: Bringing up level for play took: 0.002261
+[2018.11.04-20.12.11:196][671]LogBlueprintUserMessages: [Inventory_Widget] 0
+[2018.11.04-20.12.11:213][671]LogBlueprintUserMessages: [Inventory_Widget] 60
+[2018.11.04-20.12.11:257][671]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.027
+[2018.11.04-20.12.11:258][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.12.14:857][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.12.14:908][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.12.17:597][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.04-20.12.26:614][ 80]LogSlate: Took 0.009657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.04-20.12.49:399][700]LogSavePackage: Save=208.78ms
+[2018.11.04-20.12.49:399][700]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Main_Inventory_WidgetE651A9794F253773867D3FAE8C190ACE.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/UI/Inventory/Widgets/Main_Inventory_Widget.uasset'
+[2018.11.04-20.12.49:408][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/UI/Inventory/Widgets/Main_Inventory_Widget.uasset
+[2018.11.04-20.12.50:663][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.16.13:211][  5]BlueprintLog: New page: Compile Inventory_Widget
+[2018.11.04-20.16.13:435][  5]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021173d065c0, Size=192
+[2018.11.04-20.16.13:436][  5]LogUObjectGlobals: Created PersistentFrame Addr=0x000002114e610400, Size=192, Default__Inventory_Widget_C Function /Engine/Transient.REINST_Inventory_Widget_C_34:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.16.13:464][  5]LogUObjectGlobals: Created PersistentFrame Addr=0x00000211790b7c40, Size=192, Default__Inventory_Widget_C Function /Game/UI/Inventory/Widgets/Inventory_Widget.Inventory_Widget_C:ExecuteUbergraph_Inventory_Widget
+[2018.11.04-20.16.16:037][ 63]BlueprintLog: New page: Compile Inventory_BP
+[2018.11.04-20.16.16:903][ 63]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021090394600, Size=472
+[2018.11.04-20.16.16:903][ 63]LogUObjectGlobals: Created PersistentFrame Addr=0x000002114a39fc00, Size=472, Default__Inventory_BP_C Function /Engine/Transient.REINST_Inventory_BP_C_137:ExecuteUbergraph_Inventory_BP
+[2018.11.04-20.16.17:014][ 63]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021186966600, Size=472, Default__Inventory_BP_C Function /Game/BP/Inventory_BP.Inventory_BP_C:ExecuteUbergraph_Inventory_BP
+[2018.11.04-20.16.17:317][ 63]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002114e610400, Size=192
+[2018.11.04-20.16.19:278][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.16.19:410][140]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.04-20.16.19:475][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.16.19:476][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.04-20.16.19:477][140]PIE: New page: PIE session: FirstPersonExampleMap (Nov 4, 2018, 10:16:19 AM)
+[2018.11.04-20.16.19:477][140]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.04-20.16.19:503][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025052s)
+[2018.11.04-20.16.19:505][140]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.04-20.16.19:505][140]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2018.11.04-20.16.19:506][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028272s)
+[2018.11.04-20.16.19:551][140]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002114a39fc00, Size=472
+[2018.11.04-20.16.19:564][140]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-20.16.19:591][140]LogInit: FAudioDevice initialized.
+[2018.11.04-20.16.19:629][140]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.04-20.16.19:632][140]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.11.04-15.16.19
+[2018.11.04-20.16.19:633][140]LogWorld: Bringing up level for play took: 0.002028
+[2018.11.04-20.16.19:669][140]LogBlueprintUserMessages: [Inventory_BP_C_1] 60
+[2018.11.04-20.16.19:732][140]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.498
+[2018.11.04-20.16.19:733][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.16.27:616][338]LogBlueprintUserMessages: [RoomGen_BP_66] 20148
+[2018.11.04-20.16.27:616][338]LogBlueprintUserMessages: [RoomGen_BP_66] 8.227175
+[2018.11.04-20.16.28:231][354]LogBlueprintUserMessages: [RoomGen_BP_66] Hello2
+[2018.11.04-20.16.28:495][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.16.28:541][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.04-20.16.33:401][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.16.36:285][581]LogSlate: Window 'Save Content' being destroyed
+[2018.11.04-20.16.36:312][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Inventory_BP" FILE="../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Inventory_BP.uasset" SILENT=true
+[2018.11.04-20.16.37:156][581]LogSavePackage: Save=802.90ms
+[2018.11.04-20.16.37:156][581]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Inventory_BP3F5E48C84B8231523C1B75B034A71A6C.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Inventory_BP.uasset'
+[2018.11.04-20.16.37:161][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/BP/Inventory_BP.uasset
+[2018.11.04-20.16.37:278][581]LogSavePackage: Save=100.03ms
+[2018.11.04-20.16.37:278][581]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Inventory_Widget90D56DED4484056117649DA13A920FA8.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/UI/Inventory/Widgets/Inventory_Widget.uasset'
+[2018.11.04-20.16.37:284][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/UI/Inventory/Widgets/Inventory_Widget.uasset
+[2018.11.04-20.17.19:834][741]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.04-20.19.04:927][ 49]LogInit: XAudio2 using 'Crestron (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.04-20.32.33:147][673]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/MeshExports/Assault_Rifle_1.FBX)
+[2018.11.04-20.32.33:186][673]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.11.04-20.32.33:186][673]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.11.04-20.32.33:187][673]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.11.04-20.32.33:187][673]LogFbx: ItemName: Model, ItemCount : 18
+[2018.11.04-20.32.33:187][673]LogFbx: ItemName: Geometry, ItemCount : 18
+[2018.11.04-20.32.33:188][673]LogFbx: ItemName: Material, ItemCount : 5
+[2018.11.04-20.32.33:188][673]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.11.04-20.32.33:188][673]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2018.11.04-20.32.33:188][673]LogFbx: ItemName: Video, ItemCount : 1
+[2018.11.04-20.32.33:204][673]LogFbx: Loading FBX Scene from ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/MeshExports/Assault_Rifle_1.FBX
+[2018.11.04-20.32.33:301][673]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-20.33.07:382][673]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.04-20.33.07:526][673]LogFbx: Loading FBX Scene from ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/MeshExports/Assault_Rifle_1.FBX
+[2018.11.04-20.33.07:602][673]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.04-20.33.07:615][673]LogMaterial: Missing cached shader map for material GRIP_STOCK, compiling. 
+[2018.11.04-20.33.07:684][673]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.04-20.33.07:684][673]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.04-20.33.07:684][673]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.04-20.33.07:691][673]LogMaterial: Missing cached shader map for material Rough_coating1, compiling. 
+[2018.11.04-20.33.07:804][673]LogTexture: Display: Building textures: MetalBare0018_M1 (AutoDXT, 1600X772)
+[2018.11.04-20.33.08:769][673]LogMaterial: Missing cached shader map for material MetalBare0018_M, compiling. 
+[2018.11.04-20.33.08:832][673]LogMaterial: Missing cached shader map for material skp_front_default, compiling. 
+[2018.11.04-20.33.08:962][673]LogStaticMesh: Building static mesh Assault_Rifle_1...
+[2018.11.04-20.33.09:780][673]LogStaticMesh: Built static mesh [0.82s] /Game/Meshes/Assault_Rifle_1.Assault_Rifle_1
+[2018.11.04-20.33.09:896][673]LogStaticMesh: Warning: Assault_Rifle_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.11.04-20.33.09:897][673]LogStaticMesh: Warning: Assault_Rifle_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.04-20.33.10:023][673]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.11.04-20.33.10:024][673]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.11.04-20.33.10:025][673]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.11.04-20.33.10:025][673]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.11.04-20.33.10:025][673]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.11.04-20.33.10:026][673]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.11.04-20.33.10:026][673]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2018.11.04-20.33.10:027][673]FBXImport: Warning: Assault_Rifle_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.11.04-20.33.10:027][673]FBXImport: Warning: Assault_Rifle_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.04-20.33.21:965][979]LogSlate: Window 'Message Log' being destroyed
+[2018.11.04-20.33.21:986][979]LogSlate: Window 'Message Log' being destroyed
+[2018.11.04-20.33.32:915][  3]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.04-20.33.32:915][  3]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.04-20.33.32:916][  3]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.04-20.33.32:916][  3]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.04-20.33.32:916][  3]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.04-20.33.33:356][  3]LogRenderer: Reallocating scene render targets to support 1144x924 Format 9 NumSamples 1 (Frame:1).
+[2018.11.04-20.33.47:844][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.34.01:171][285]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-20.34.06:370][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.34.15:053][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.11.04-20.34.19:304][419]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-20.34.19:304][419]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.11.04-20.34.20:505][419]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.11.04-20.34.20:836][420]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.057
+[2018.11.04-20.34.20:840][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Assault_Rifle_1] ([1] browsable assets)...
+[2018.11.04-20.34.20:884][420]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Assault_Rifle_1.Assault_Rifle_1]
+[2018.11.04-20.34.20:884][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Assault_Rifle_1]
+[2018.11.04-20.34.20:941][420]LogSavePackage: Save=52.49ms
+[2018.11.04-20.34.20:941][420]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Assault_Rifle_1_Auto1BFE97BD9406E784B2B82A6BDFAA374F8.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/Assault_Rifle_1_Auto1.uasset'
+[2018.11.04-20.34.20:945][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/Assault_Rifle_1_Auto1.uasset
+[2018.11.04-20.34.20:947][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/GRIP_STOCK] ([1] browsable assets)...
+[2018.11.04-20.34.20:996][420]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/GRIP_STOCK.GRIP_STOCK]
+[2018.11.04-20.34.20:997][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/GRIP_STOCK]
+[2018.11.04-20.34.21:030][420]LogSavePackage: Save=29.88ms
+[2018.11.04-20.34.21:031][420]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/GRIP_STOCK_Auto109D608E047D4058D0E7142B8EAD063A9.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/GRIP_STOCK_Auto1.uasset'
+[2018.11.04-20.34.21:034][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/GRIP_STOCK_Auto1.uasset
+[2018.11.04-20.34.21:036][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Rough_coating1] ([1] browsable assets)...
+[2018.11.04-20.34.21:092][420]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/Rough_coating1.Rough_coating1]
+[2018.11.04-20.34.21:092][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Rough_coating1]
+[2018.11.04-20.34.21:132][420]LogSavePackage: Save=32.46ms
+[2018.11.04-20.34.21:132][420]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Rough_coating1_Auto1CC0FDBFC4FF3D9A6D94E91B36AC68F11.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/Rough_coating1_Auto1.uasset'
+[2018.11.04-20.34.21:137][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/Rough_coating1_Auto1.uasset
+[2018.11.04-20.34.21:138][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/MetalBare0018_M] ([1] browsable assets)...
+[2018.11.04-20.34.21:185][420]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/MetalBare0018_M.MetalBare0018_M]
+[2018.11.04-20.34.21:185][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/MetalBare0018_M]
+[2018.11.04-20.34.21:227][420]LogSavePackage: Save=36.29ms
+[2018.11.04-20.34.21:228][420]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/MetalBare0018_M_Auto156325CD24EEF59F4C9D5E1B3E8640332.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/MetalBare0018_M_Auto1.uasset'
+[2018.11.04-20.34.21:231][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/MetalBare0018_M_Auto1.uasset
+[2018.11.04-20.34.21:233][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/MetalBare0018_M1] ([1] browsable assets)...
+[2018.11.04-20.34.21:242][420]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Meshes/MetalBare0018_M1.MetalBare0018_M1]
+[2018.11.04-20.34.21:242][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/MetalBare0018_M1]
+[2018.11.04-20.34.21:269][420]LogSavePackage: Save=21.16ms
+[2018.11.04-20.34.21:269][420]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/MetalBare0018_M1_Auto10587F96B4FD75D0681269EBB9CAE4BB5.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/MetalBare0018_M1_Auto1.uasset'
+[2018.11.04-20.34.21:272][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/MetalBare0018_M1_Auto1.uasset
+[2018.11.04-20.34.21:273][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/skp_front_default] ([1] browsable assets)...
+[2018.11.04-20.34.21:324][420]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/skp_front_default.skp_front_default]
+[2018.11.04-20.34.21:325][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/skp_front_default]
+[2018.11.04-20.34.21:361][420]LogSavePackage: Save=28.97ms
+[2018.11.04-20.34.21:361][420]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/skp_front_default_Auto16BFB7FF148B2AD0142A9E49270D9C132.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/skp_front_default_Auto1.uasset'
+[2018.11.04-20.34.21:366][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Autosaves/Game/Meshes/skp_front_default_Auto1.uasset
+[2018.11.04-20.34.21:367][420]LogFileHelpers: Auto-saving content packages took 0.529
+[2018.11.04-20.34.29:963][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.34.37:305][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.11.04-20.34.37:365][535]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.11.04-20.34.38:292][535]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.04-20.35.00:792][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.35.15:583][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.36.08:581][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.36.18:816][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.36.21:692][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.36.23:573][277]LogSavePackage: Save=13.30ms
+[2018.11.04-20.36.23:573][277]LogSavePackage: Moving '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Saved/Derek_SkeletonD65A3237457CA6B23734C09BDD19D011.tmp' to '../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/Characters/Derek/Derek_Skeleton.uasset'
+[2018.11.04-20.36.23:577][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/wesda/Documents/Unreal Projects/fall-2018-cielo-karcero/CieloKarcero/Content/Characters/Derek/Derek_Skeleton.uasset
+[2018.11.04-20.36.30:833][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.36.37:883][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.36.38:319][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.11.04-20.36.38:382][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.11.04-20.36.39:402][384]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.04-20.36.48:037][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.37.02:491][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.37.29:771][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.37.44:159][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.37.50:834][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.37.58:303][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.38.09:949][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.38.27:386][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.38.36:234][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.38.44:112][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.38.55:878][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.39.10:911][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.39.23:155][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-20.39.29:729][563]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.04-20.39.29:749][563]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:303 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.11.04-20.39.29:750][563]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.11.04-20.39.32:777][563]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.11.04-20.39.32:777][563]LogWindows: Error: === Critical error: ===
+[2018.11.04-20.39.32:777][563]LogWindows: Error: 
+[2018.11.04-20.39.32:777][563]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 819] 
+[2018.11.04-20.39.32:777][563]LogWindows: Error: Rendering thread exception:
+[2018.11.04-20.39.32:777][563]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 182] 
+[2018.11.04-20.39.32:777][563]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2018.11.04-20.39.32:777][563]LogWindows: Error: 
+[2018.11.04-20.39.32:777][563]LogWindows: Error: 
+[2018.11.04-20.39.32:777][563]LogWindows: Error: [Callstack] 0x000000006C1FA388 KERNELBASE.dll!UnknownFunction []
+[2018.11.04-20.39.32:777][563]LogWindows: Error: [Callstack] 0x000000004BAB7884 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.04-20.39.32:777][563]LogWindows: Error: [Callstack] 0x0000000024E46D9B UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x0000000024D81949 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000002850A0CF UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000002850E5E0 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x00000000284ED62A UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x00000000284ED58C UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x00000000284FAADF UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000003A75F0B6 UE4Editor-RHI.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000000D3A1FF8 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000000D3A7C4C UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x0000000024C5B713 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x0000000024C5BD3A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000004BDC3CC9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000004BDC4CF6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x0000000025029FFC UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000002501ED63 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000006F4A3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000006FA21461 ntdll.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: [Callstack] 0x000000006FA21461 ntdll.dll!UnknownFunction []
+[2018.11.04-20.39.32:778][563]LogWindows: Error: 
+[2018.11.04-20.39.32:778][563]LogWindows: Error: 
+[2018.11.04-20.39.32:778][563]LogWindows: Error: 
+[2018.11.04-20.39.32:778][563]LogWindows: Error: 
+[2018.11.04-20.39.32:814][563]LogExit: Executing StaticShutdownAfterError
+[2018.11.04-20.39.32:838][563]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.11.04-20.39.32:838][563]Log file closed, 11/04/18 15:39:32
